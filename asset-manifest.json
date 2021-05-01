@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/covido/static/css/main.f1eb5fed.chunk.css",
-    "main.js": "/covido/static/js/main.d4648025.chunk.js",
-    "main.js.map": "/covido/static/js/main.d4648025.chunk.js.map",
+    "main.js": "/covido/static/js/main.0efe3788.chunk.js",
+    "main.js.map": "/covido/static/js/main.0efe3788.chunk.js.map",
     "runtime-main.js": "/covido/static/js/runtime-main.375de460.js",
     "runtime-main.js.map": "/covido/static/js/runtime-main.375de460.js.map",
     "static/js/2.4cc6cff5.chunk.js": "/covido/static/js/2.4cc6cff5.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.375de460.js",
     "static/js/2.4cc6cff5.chunk.js",
     "static/css/main.f1eb5fed.chunk.css",
-    "static/js/main.d4648025.chunk.js"
+    "static/js/main.0efe3788.chunk.js"
   ]
 }
