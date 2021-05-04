@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/covido/static/css/main.f1eb5fed.chunk.css",
+    "main.css": "/covido/static/css/main.5a37dab0.chunk.css",
     "main.js": "/covido/static/js/main.be9101a2.chunk.js",
     "main.js.map": "/covido/static/js/main.be9101a2.chunk.js.map",
     "runtime-main.js": "/covido/static/js/runtime-main.375de460.js",
@@ -10,14 +10,14 @@
     "static/js/3.ef1d6925.chunk.js": "/covido/static/js/3.ef1d6925.chunk.js",
     "static/js/3.ef1d6925.chunk.js.map": "/covido/static/js/3.ef1d6925.chunk.js.map",
     "index.html": "/covido/index.html",
-    "static/css/main.f1eb5fed.chunk.css.map": "/covido/static/css/main.f1eb5fed.chunk.css.map",
+    "static/css/main.5a37dab0.chunk.css.map": "/covido/static/css/main.5a37dab0.chunk.css.map",
     "static/js/2.4cc6cff5.chunk.js.LICENSE.txt": "/covido/static/js/2.4cc6cff5.chunk.js.LICENSE.txt",
     "static/media/index.css": "/covido/static/media/corona.9dfbfdfc.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.375de460.js",
     "static/js/2.4cc6cff5.chunk.js",
-    "static/css/main.f1eb5fed.chunk.css",
+    "static/css/main.5a37dab0.chunk.css",
     "static/js/main.be9101a2.chunk.js"
   ]
 }
